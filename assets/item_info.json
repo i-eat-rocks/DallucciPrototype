@@ -1,12 +1,12 @@
 [
     {
-        "id":"testItem1",
+        "id":"pastryoffer",
         "itemName":"Special Test Offer 1",
-        "desc":"Treat yourself to 20% off any item of your choosing",
+        "desc":"Treat yourself to 20% off any pastry of your choosing",
         "validItems":"all",
         "endDate":"06/31/2024",
         "section":"hero",
-        "thumbnail":"false"
+        "thumbnail":".png"
     },    
     {
         "id":"testItem4",
@@ -15,7 +15,7 @@
         "validItems":"all",
         "endDate":"06/31/2024",
         "section":"hero",
-        "thumbnail":"false"
+        "thumbnail":""
     },
     {
         "id":"testItem2",
@@ -24,7 +24,7 @@
         "validItems":"",
         "endDate":"06/31/2024",
         "section":"drinks",
-        "thumbnail":"false"
+        "thumbnail":""
     },
     {
         "id":"testItem3",
@@ -33,7 +33,7 @@
         "validItems":"all",
         "endDate":"06/31/2024",
         "section":"food",
-        "thumbnail":"false"
+        "thumbnail":""
     },
     {
         "id":"testItem6",
@@ -42,7 +42,7 @@
         "validItems":"all",
         "endDate":"06/31/2024",
         "section":"food",
-        "thumbnail":"false"
+        "thumbnail":""
     },
     {
         "id":"testItem5",
@@ -51,6 +51,6 @@
         "validItems":"",
         "endDate":"06/31/2024",
         "section":"drinks",
-        "thumbnail":"false"
+        "thumbnail":""
     }
 ]
