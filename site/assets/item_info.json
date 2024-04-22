@@ -1,0 +1,56 @@
+[
+    {
+        "id":"testItem1",
+        "itemName":"Special Test Offer 1",
+        "desc":"Treat yourself to 20% off any item of your choosing",
+        "validItems":"all",
+        "endDate":"06/31/2024",
+        "section":"hero",
+        "thumbnail":"false"
+    },    
+    {
+        "id":"testItem4",
+        "itemName":"Special Test Offer 2",
+        "desc":"Claim your free signup reward: 50% off your first espresso beverage",
+        "validItems":"all",
+        "endDate":"06/31/2024",
+        "section":"hero",
+        "thumbnail":"false"
+    },
+    {
+        "id":"testItem2",
+        "itemName":"Drinks Test Coupon 1",
+        "desc":"Treat yourself to 10% off any standard beverage",
+        "validItems":"",
+        "endDate":"06/31/2024",
+        "section":"drinks",
+        "thumbnail":"false"
+    },
+    {
+        "id":"testItem3",
+        "itemName":"Test Coupon 1",
+        "desc":"10% off any food item of your choice",
+        "validItems":"all",
+        "endDate":"06/31/2024",
+        "section":"food",
+        "thumbnail":"false"
+    },
+    {
+        "id":"testItem6",
+        "itemName":"Test Coupon - No description",
+        "desc":"",
+        "validItems":"all",
+        "endDate":"06/31/2024",
+        "section":"food",
+        "thumbnail":"false"
+    },
+    {
+        "id":"testItem5",
+        "itemName":"Drink Coupon 2",
+        "desc":"Bring a friend! Get one standard beverage free with purchase of any espresso beverage",
+        "validItems":"",
+        "endDate":"06/31/2024",
+        "section":"drinks",
+        "thumbnail":"false"
+    }
+]
